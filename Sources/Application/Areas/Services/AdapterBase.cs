@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace Mmu.Mlh.ApplicationExtensions.Areas.Adapters.Services
+namespace Mmu.Mlh.Adapters.Areas.Services
 {
     public abstract class AdapterBase<TDto, TModel> : IAdapter<TDto, TModel>
     {

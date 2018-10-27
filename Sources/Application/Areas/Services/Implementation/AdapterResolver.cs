@@ -1,6 +1,6 @@
 ﻿using Mmu.Mlh.ServiceProvisioning.Areas.Provisioning.Services;
 
-namespace Mmu.Mlh.ApplicationExtensions.Areas.Adapters.Services.Implementation
+namespace Mmu.Mlh.Adapters.Areas.Services.Implementation
 {
     public class AdapterResolver : IAdapterResolver
     {

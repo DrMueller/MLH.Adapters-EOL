@@ -1,4 +1,4 @@
-﻿namespace Mmu.Mlh.ApplicationExtensions.Areas.Adapters.Services
+﻿namespace Mmu.Mlh.Adapters.Areas.Services
 {
     public interface IAdapter<TDto, TModel>
     {
