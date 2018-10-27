@@ -2,7 +2,7 @@
 
 namespace Mmu.Mlh.Adapters.Areas.Services.Implementation
 {
-    public class AdapterResolver : IAdapterResolver
+    internal class AdapterResolver : IAdapterResolver
     {
         private readonly IServiceLocator _serviceLocator;
 

@@ -20,12 +20,12 @@
 
   <ItemGroup>
     <Folder Include="Areas\" />
-    <Folder Include="Infrastructure\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="7.0.1" />
     <PackageReference Include="Mmu.Mlh.ServiceProvisioning" Version="2.0.1" />
+    <PackageReference Include="StructureMap" Version="4.7.0" />
   </ItemGroup>
 
 </Project>
