@@ -1,10 +1,10 @@
-﻿using Mmu.Mlh.Adapters.Areas.Services;
+﻿using Lamar;
+using Mmu.Mlh.Adapters.Areas.Services;
 using Mmu.Mlh.Adapters.Areas.Services.Implementation;
-using StructureMap;
 
 namespace Mmu.Mlh.Adapters.Infrastructure.DependencyInjection
 {
-    public class AdaptersRegistry : Registry
+    public class AdaptersRegistry : ServiceRegistry
     {
         public AdaptersRegistry()
         {
